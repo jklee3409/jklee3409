@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jklee3409)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-jklee3409](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jklee3409)](https://solved.ac/jklee3409)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jklee3409)](https://velog.io/@jklee3409/posts)
 
