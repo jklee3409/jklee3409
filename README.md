@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jklee3409)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jklee3409)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jklee3409)](https://velog.io/@k_bell)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jklee3409)](https://github.com/eungyeole/velog-readme-stats)
+
