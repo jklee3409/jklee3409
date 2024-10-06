@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Jong Kyu Lee.👋
 
 <!--
 **jklee3409/jklee3409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jklee3409)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jklee3409)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+jklee3409](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jklee3409)](https://velog.io/@jklee3409/posts)
 
