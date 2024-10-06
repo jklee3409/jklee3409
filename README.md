@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jklee3409)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jklee3409)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jklee3409)](https://velog.io/@k_bell)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jklee3409)](https://velog.io/@jklee3409/posts)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jklee3409)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jklee3409)](https://velog.io/@jklee3409/posts)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 
