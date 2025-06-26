@@ -8,18 +8,20 @@
 ## 🚀 Projects
 
 - 📱 [요기U+](https://github.com/eureka-comprehensive-project) - 사용자 맞춤 요금제를 추천해주는 챗봇 서비스
+- 📆 [DatePicker](https://github.com/ureca-miniproject2-team3/date-picker) - 일정 조율 웹서비스
+- 💪 [FitWell](https://github.com/jklee3409/HealthManagement_Backend) - 맞춤형 건강 관리 서비스
 ---
 
 ## 🏆 Awards
 
 - 💡 **LG U+ 유레카 종합 경진대회, 최우수상 (2025.06.24)** 
+
 ---
 
-## 💻 Tech Stack
+## 🏫 Education
 
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- LG U+ 유레카 SW 교육과정 2기 백엔드 개발자 과정 (2025.01 ~ 2025.08)
+- 경희대학교 컴퓨터공학과 (2020.02 ~ 재학중)
 
 ---
 
