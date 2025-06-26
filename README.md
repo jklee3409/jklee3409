@@ -14,13 +14,13 @@
 
 ## 🏆 Awards
 
-- 💡 **LG U+ 유레카 종합 경진대회, 최우수상 (2025.06.24)** 
+- 💡 **LG U+ 유레카 종합 경진대회, 최우수상 (2025.06.24)** - [요기U+](https://github.com/eureka-comprehensive-project)
 
 ---
 
 ## 🏫 Education
 
-- LG U+ 유레카 SW 교육과정 2기 백엔드 개발자 과정 (2025.01 ~ 2025.08) - [요기U+](https://github.com/eureka-comprehensive-project)
+- LG U+ 유레카 SW 교육과정 2기 백엔드 개발자 과정 (2025.01 ~ 2025.08)
 - 경희대학교 컴퓨터공학과 (2020.02 ~ 재학중)
 
 ---
