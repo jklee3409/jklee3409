@@ -7,7 +7,7 @@
 
 ## 🚀 Projects
 
-- [📱 요기U+ ](https://github.com/jklee3409/comprehensive_project](https://github.com/eureka-comprehensive-project) - 사용자 맞춤 요금제를 추천해주는 챗봇 서비스 
+- 📱 [요기U+](https://github.com/eureka-comprehensive-project) - 사용자 맞춤 요금제를 추천해주는 챗봇 서비스
 ---
 
 ## 🏆 Awards
