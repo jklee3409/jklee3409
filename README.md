@@ -7,7 +7,7 @@
 
 ## 🚀 Projects
 
-- [📱 요기U+ ]([https://github.com/jklee3409/comprehensive_project](https://github.com/eureka-comprehensive-project)) - 사용자 맞춤 요금제를 추천해주는 챗봇 서비스 
+- [📱 요기U+ ](https://github.com/jklee3409/comprehensive_project](https://github.com/eureka-comprehensive-project) - 사용자 맞춤 요금제를 추천해주는 챗봇 서비스 
 ---
 
 ## 🏆 Awards
@@ -18,9 +18,7 @@
 ## 💻 Tech Stack
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
@@ -35,5 +33,4 @@
 ## 📚 Activity
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jklee3409)](https://solved.ac/jklee3409)
-[![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=jklee3409)](https://velog.io/@jklee3409)
 [![Velog Posts](https://velog-readme-stats.vercel.app/api?name=jklee3409)](https://velog.io/@jklee3409)
