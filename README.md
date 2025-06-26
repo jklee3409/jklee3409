@@ -7,7 +7,7 @@
 
 ## 🚀 Projects
 
-- 📱 [요기U+](https://github.com/eureka-comprehensive-project) - 사용자 맞춤 요금제를 추천해주는 챗봇 서비스
+- 📱 [요기U+](https://github.com/eureka-comprehensive-project) - 사용자 맞춤 요금제 추천 챗봇 서비스
 - 📆 [DatePicker](https://github.com/ureca-miniproject2-team3/date-picker) - 일정 조율 웹서비스
 - 💪 [FitWell](https://github.com/jklee3409/HealthManagement_Backend) - 맞춤형 건강 관리 서비스
 ---
