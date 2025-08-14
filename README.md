@@ -8,14 +8,14 @@
 ## 🚀 Projects
 
 - 💱 [다챠](https://github.com/dat-ch-a) - 무선 데이터 거래 플랫폼
-- 📱 [요기U+](https://github.com/eureka-comprehensive-project) - 사용자 맞춤 요금제 추천 챗봇 서비스
+- 📱 [요기U+](https://github.com/yogi-u-plus) - 사용자 맞춤 요금제 추천 챗봇 서비스
 - 📆 [DatePicker](https://github.com/ureca-miniproject2-team3/date-picker) - 일정 조율 웹서비스
 - 💪 [FitWell](https://github.com/jklee3409/HealthManagement_Backend) - 맞춤형 건강 관리 서비스
 ---
 
 ## 🏆 Awards
 
-- 💡 **LG U+ 유레카 종합 경진대회, 최우수상 (2025.06.24)** - [요기U+](https://github.com/eureka-comprehensive-project)
+- 💡 **LG U+ 유레카 종합 경진대회, 최우수상 (2025.06.24)** - [요기U+](https://github.com/yogi-u-plus)
 
 ---
 
