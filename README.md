@@ -30,7 +30,6 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jklee3409&theme=default)](https://github.com/jklee3409)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jklee3409&show_icons=true&hide_title=true)](https://github.com/jklee3409)
 
 ---
