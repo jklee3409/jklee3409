@@ -14,6 +14,7 @@
 - 💱 [다챠](https://github.com/dat-ch-a) - 무선 데이터 거래 플랫폼
 - 📱 [요기U+](https://github.com/yogi-u-plus) - 사용자 맞춤 요금제 추천 챗봇 서비스
 - 🪙 [Quantimizer](https://github.com/capstone-design-quantimizer) - 투자 전략 백테스팅 서비스
+- 📖 [DocWeave](https://github.com/jklee3409/DocWeave) - 사용자 PDF 기반 RAG 서비스
 - 📆 [DatePicker](https://github.com/ureca-miniproject2-team3/date-picker) - 일정 조율 웹서비스
 - 💪 [FitWell](https://github.com/jklee3409/HealthManagement_Backend) - 맞춤형 건강 관리 서비스
 ---
