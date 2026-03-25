@@ -1,5 +1,5 @@
 
-![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?name=JongKyu%20Lee&job=Software%20Engineer%20-%20Backend&company=Kyung%20Hee%20Univ.&address=Suwon.%20KR&about=Turning%20ideas%20into%20reliable%20system&linkedin=&theme=cosmic&email=jkgloup%40gmail.com&linkedin_color=%230077B5)
+![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?name=JongKyu%20Lee&job=Software%20Engineer%20-%20Backend&company=Kyung%20Hee%20Univ.&address=Suwon.%20KR&about=Turning%20ideas%20into%20reliable%20system&linkedin=&theme=cosmic&email=jklee3409@naver.com&linkedin_color=%230077B5)
 
 ## 👋 안녕하세요. 백엔드 개발자 이종규입니다.
 
