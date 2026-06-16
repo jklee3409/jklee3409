@@ -13,6 +13,7 @@
 
 - 💱 [다챠](https://github.com/dat-ch-a) - 무선 데이터 거래 플랫폼
 - 📱 [요기U+](https://github.com/yogi-u-plus) - 사용자 맞춤 요금제 추천 챗봇 서비스
+- 🔎 [Query-Forge](https://github.com/jklee3409/query-forge) - 한국어 질의 기반 영문 기술 문서 검색 최적화 프로젝트 
 - 🪙 [Quantimizer](https://github.com/capstone-design-quantimizer) - 투자 전략 백테스팅 서비스
 - 📖 [DocWeave](https://github.com/jklee3409/DocWeave) - 사용자 PDF 기반 RAG 서비스
 - 📆 [DatePicker](https://github.com/ureca-miniproject2-team3/date-picker) - 일정 조율 웹서비스
@@ -28,7 +29,7 @@
 ## 🏫 Education
 
 - LG U+ 유레카 SW 교육과정 2기 백엔드 개발자 과정 (2025.01 ~ 2025.08)
-- 경희대학교 컴퓨터공학과 (2020.02 ~ 재학중)
+- 경희대학교 컴퓨터공학과 (2020.02 ~ 2026.08)
 
 ---
 
