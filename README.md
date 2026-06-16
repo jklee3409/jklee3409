@@ -1,11 +1,11 @@
 
 ![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?name=JongKyu%20Lee&job=Software%20Engineer%20-%20Backend&company=Kyung%20Hee%20Univ.&address=Suwon.%20KR&about=Turning%20ideas%20into%20reliable%20system&linkedin=&theme=cosmic&email=jklee3409@naver.com&linkedin_color=%230077B5)
 
-## 👋 안녕하세요. 백엔드 개발자 이종규입니다.
+## 👋 안녕하세요. AI 서비스와 안정적인 서버 시스템을 함께 설계하는 개발자 이종규입니다.
 
-- 안정적인 서비스를 구현하고 운영하는데 기여하고자 합니다.  
-- 지속적인 개선과 협업을 중요하게 생각합니다. 
-- 변화하는 시대에 맞춰 기획부터 개발까지 모든 과정에 깊이 참여하고자 합니다.
+- 대용량 트래픽과 분산 환경에서도 안정적으로 동작하는 백엔드 시스템을 고민합니다.
+- 안정적인 백엔드 시스템 설계와 AI 기반 서비스 구조를 함께 고민하며 성장하고 있습니다.
+- 변화하는 기술 환경에 맞춰 문제 정의, 설계, 구현, 개선까지 주도적으로 참여하는 개발자를 지향합니다.
 
 ---
 
