@@ -29,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jklee3409&show_icons=true&hide_title=true)](https://github.com/jklee3409)
-
----
-
 ## 📚 Activity
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jklee3409)](https://solved.ac/jklee3409)
